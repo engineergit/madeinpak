@@ -1,0 +1,50 @@
+.CustomeNavbar{
+    padding: 0
+}
+.header{
+    width: 64.8%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.olx_logo{
+    height: 85px;
+    width: 85px;
+    top: -1px
+}
+.slogan{
+    top: 34px;
+    left: 108px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 20px
+}
+.user-icon{
+    width: 25px;
+    margin-right: 10px;
+}
+.account{
+    border: 1px solid #eee;
+    padding: 8px 12px;
+    border-radius: 3px;
+}
+.account:hover{
+    cursor: pointer;
+    
+}
+.link{
+    color: #2965be; 
+    font-size: 17px
+}
+.link:hover{
+    color: #ff7700
+}
+.add{
+    border: 1px solid #ff7700;
+    padding: 8px 12px;
+    border-radius: 3px;
+    margin-left: 20px;
+    background: #ff7700;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
